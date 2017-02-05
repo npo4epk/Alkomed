@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "Roboto-Black";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Roboto/Roboto-Black/Roboto-Black.eot?") format("eot"), url("../fonts/Roboto/Roboto-Black/Roboto-Black.otf") format("opentype"), url("../fonts/Roboto/Roboto-Black/Roboto-Black.woff") format("woff"), url("../fonts/Roboto/Roboto-Black/Roboto-Black.ttf") format("truetype"), url('../fonts/Roboto/Roboto-Black/Roboto-Black.svg#str-replace("Roboto-Black", " ", "_")') format("svg"); }
+
+@font-face {
+  font-family: "Roboto-Medium";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Roboto/Roboto-Medium/Roboto-Medium.eot?") format("eot"), url("../fonts/Roboto/Roboto-Medium/Roboto-Medium.otf") format("opentype"), url("../fonts/Roboto/Roboto-Medium/Roboto-Medium.woff") format("woff"), url("../fonts/Roboto/Roboto-Medium/Roboto-Medium.ttf") format("truetype"), url('../fonts/Roboto/Roboto-Medium/Roboto-Medium.svg#str-replace("Roboto-Medium", " ", "_")') format("svg"); }
+
+@font-face {
+  font-family: "Roboto-Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Roboto/Roboto-Regular/Roboto-Regular.eot?") format("eot"), url("../fonts/Roboto/Roboto-Regular/Roboto-Regular.otf") format("opentype"), url("../fonts/Roboto/Roboto-Regular/Roboto-Regular.woff") format("woff"), url("../fonts/Roboto/Roboto-Regular/Roboto-Regular.ttf") format("truetype"), url('../fonts/Roboto/Roboto-Regular/Roboto-Regular.svg#str-replace("Roboto-Regular", " ", "_")') format("svg"); }
+
+@font-face {
+  font-family: "Roboto-Bold";
+  font-style: normal;
+  font-weight: bold;
+  src: url("../fonts/Roboto/RobotoSlab-Bold/RobotoSlab-Bold.eot?") format("eot"), url("../fonts/Roboto/RobotoSlab-Bold/RobotoSlab-Bold.otf") format("opentype"), url("../fonts/Roboto/RobotoSlab-Bold/RobotoSlab-Bold.woff") format("woff"), url("../fonts/Roboto/RobotoSlab-Bold/RobotoSlab-Bold.ttf") format("truetype"), url('../fonts/Roboto/RobotoSlab-Bold/RobotoSlab-Bold.svg#str-replace("Roboto-Bold", " ", "_")') format("svg"); }
+
+@font-face {
+  font-family: "Raleway-SemiBold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Raleway/Raleway-SemiBold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Raleway-Medium";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Raleway/Raleway-Medium.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Raleway-Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Raleway/Raleway-Regular.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Raleway-Bold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Raleway/Raleway-Bold.ttf") format("truetype"); }

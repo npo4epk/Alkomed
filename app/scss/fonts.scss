@@ -1,0 +1,18 @@
+//*********************************************
+// @IMPORT
+//*********************************************
+@import "_mixins.scss";
+
+//*********************************************
+// FONTS
+//*********************************************
+
+@include font-face("Roboto-Black", "../fonts/Roboto/Roboto-Black/Roboto-Black", normal, normal, eot otf woff ttf svg); 
+@include font-face("Roboto-Medium", "../fonts/Roboto/Roboto-Medium/Roboto-Medium", normal, normal, eot otf woff ttf svg); 
+@include font-face("Roboto-Regular", "../fonts/Roboto/Roboto-Regular/Roboto-Regular", normal, normal, eot otf woff ttf svg); 
+@include font-face("Roboto-Bold", "../fonts/Roboto/RobotoSlab-Bold/RobotoSlab-Bold", bold, normal, eot otf woff ttf svg); 
+
+@include font-face("Raleway-SemiBold", "../fonts/Raleway/Raleway-SemiBold", normal, normal, ttf);
+@include font-face("Raleway-Medium", "../fonts/Raleway/Raleway-Medium", normal, normal, ttf);
+@include font-face("Raleway-Regular", "../fonts/Raleway/Raleway-Regular", normal, normal, ttf);
+@include font-face("Raleway-Bold", "../fonts/Raleway/Raleway-Bold", normal, normal, ttf);
