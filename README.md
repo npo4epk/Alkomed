@@ -11,7 +11,7 @@
 	<li>Адаптивность;</li>
 	<li>Оптимизация скорости загрузки;</li>
 	<li>Обратная связь</li>
-	<li>Карта проезда</li>
+	<li>Yandex maps</li>
 	<li>Языки: HTML5, CSS3(SCSS), JavaScript(jQuery).</li>
 </ol>
 
